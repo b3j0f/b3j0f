@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+---
+
+I am CTO 👨‍💻 and co-founder 🛠 of <https://link-society.com> 🏢
+
+With a PhD in distributed systems and software engineering 🎓 👨‍🔬 💻 in my backpack 🎒 and several experiences in domains such as Defense 🎖, Civilian 🥳 , Educational 🌱 and Medical 🩺 with distributed systems 🕸, leading 👨‍💼 and machine learning 🤖 skills,
+
+I am currently working on... 
+- 🔭 https://kubevisor.io: a supervision solution for kubernetes
+- 🎛 https://datapio.co: a CI/CD platform for kubernetes
+- 👯 https://storyzzz.com: a collective stories platform
+
+And support 💪 the project https://monnaie-libre.fr/ for a stable and fair universal dividend for everybody 💸⚖💸 !
+
+Thanks for reading 🙏 and have a good day 👋👋👋 ! 
 <!--
 **b3j0f/b3j0f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
