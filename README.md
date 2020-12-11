@@ -4,7 +4,18 @@
 
 I am CTO 👨‍💻 and co-founder 🛠 of <https://link-society.com> 🏢
 
-With a PhD in distributed systems and software engineering 🎓 👨‍🔬 💻 in my backpack 🎒 and several experiences in domains such as Defense 🎖, Civilian 🥳 , Educational 🌱 and Medical 🩺 with distributed systems 🕸, leading 👨‍💼 and machine learning 🤖 skills,
+With a PhD in distributed systems and software engineering 🎓 👨‍🔬 💻 in my backpack 🎒
+
+and several experiences in domains such as
+- 🔫 Defense,
+- 🥳 Civilian,
+- 🌱 Educational,
+- and Medical 🩺 
+
+and skills among
+- 🌎 distributed systems,
+- 👨‍💼 leading,
+- 🤖 machine learning,
 
 I am currently working on... 
 - 🔭 https://kubevisor.io: a supervision solution for kubernetes
