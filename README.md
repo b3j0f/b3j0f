@@ -10,7 +10,7 @@ and several experiences in domains such as
 - 🔫 Defense,
 - 🥳 Civilian,
 - 🌱 Educational,
-- and Medical 🩺 
+- 🩺 Medical, 
 
 and skills among
 - 🌎 distributed systems,
