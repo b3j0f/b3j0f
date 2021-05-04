@@ -18,7 +18,7 @@ and skills among
 - 🤖 machine learning,
 
 I am currently working on... 
-- 🔭 https://kubevisor.io: a supervision solution for kubernetes
+- 🔭 https://kubirds.com: a supervision solution for kubernetes
 - 🎛 https://datapio.co: a CI/CD platform for kubernetes
 - 👯 https://storyzzz.com: a collective stories platform
 
