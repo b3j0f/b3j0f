@@ -2,7 +2,7 @@
 
 ---
 
-I am CTO 👨‍💻 and co-founder 🛠 of <https://link-society.com> 🏢
+I am CTO 👨‍💻 and founder 🛠 of <https://www.bejof.org> 🏢
 
 With a PhD in distributed systems and software engineering 🎓 👨‍🔬 💻 in my backpack 🎒
 
@@ -18,11 +18,12 @@ and skills among
 - 🤖 machine learning,
 
 I am currently working on... 
-- 🔭 https://kubirds.com: a supervision solution for kubernetes
-- 🎛 https://datapio.co: a CI/CD platform for kubernetes
+- 🔭 https://www.bejof.org/products/price-comparator: a price comparator tool for individuals and resellers
+- 💰 https://save-budget.com: a prepaid account service
 - 👯 https://storyzzz.com: a collective stories platform
+- 🏃 https://fitnessmatch.com: a competitive sport application 
 
-And support 💪 the project https://monnaie-libre.fr/ for a stable and fair universal dividend for everybody 💸⚖💸 !
+And support 💪 the project https://monnaie-libre.fr/ for a stable and fair universal dividend for everybody 💸 ⚖ 💸 !
 
 Thanks for reading 🙏 and have a good day 👋👋👋 ! 
 <!--
