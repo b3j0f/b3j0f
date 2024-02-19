@@ -19,9 +19,8 @@ and skills among
 
 I am currently working on... 
 - 🔭 https://www.bejof.org/products/price-comparator: a price comparator tool for individuals and resellers
-- 💰 https://save-budget.com: a prepaid account service
-- 👯 https://storyzzz.com: a collective stories platform
-- 🏃 https://fitnessmatch.com: a competitive sport application 
+- 📚 https://storyzzz.com: an text generator assisted by AI
+- 🧑🏻‍⚕️ https://advicezzz.com: a coaching solution assisted by AI
 
 And support 💪 the project https://monnaie-libre.fr/ for a stable and fair universal dividend for everybody 💸 ⚖ 💸 !
 
